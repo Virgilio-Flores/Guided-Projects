@@ -7,6 +7,7 @@ Welcome to the Guided Projects Repository! This repository serves as a collectio
 1. [Project 1: Analyzing-Heavy-Traffic-Indicators-On-I-94](./Analyzing-Heavy-Traffic-Indicators-On-I-94)
 2. [Project 2: Guided-Project-Analyzing-Wikipedia-Pages-main](./Guided-Project-Analyzing-Wikipedia-Pages-main)
 3. [Project 3: Guided-Project-Data-Engineering-Analyzing-Stock-Prices-main](./Guided-Project-Data-Engineering-Analyzing-Stock-Prices-main)
+4. [Project 4: Clean-And-Analyze-Employee-Exit-Surveys](./Clean_And_Analyze_Employee_Exit_Surveys/)
 
 
 ## Project 1: Data Analysis
@@ -20,6 +21,10 @@ MapReduce Paradigm: This project puts mapreduce into practice to prepare one for
 ## Project 3: Data Engineering
 
 Similar to Project 2, this is a data engineering task where data taken from Yahoo Finance is preprocessed and filtered.
+
+## Project 4: Data Analysis
+
+A project focused on honing the data cleaning skills like combining datasets from different sources and figuring out how to best merge the data.
 
 
 
