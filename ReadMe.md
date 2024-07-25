@@ -4,9 +4,9 @@ Welcome to the Guided Projects Repository! This repository serves as a collectio
 
 ## Table of Contents
 
-1. [Project 1: Analyzing-Heavy-Traffic-Indicators-On-I-94](#Analyzing-Heavy-Traffic-Indicators-On-I-94)
-2. [Project 2: Guided-Project-Analyzing-Wikipedia-Pages-main](#Guided-Project-Analyzing-Wikipedia-Pages-main)
-3. [Project 3: Guided-Project-Data-Engineering-Analyzing-Stock-Prices-main](#Guided-Project-Data-Engineering-Analyzing-Stock-Prices-main)
+1. [Project 1: Analyzing-Heavy-Traffic-Indicators-On-I-94](#./Analyzing-Heavy-Traffic-Indicators-On-I-94)
+2. [Project 2: Guided-Project-Analyzing-Wikipedia-Pages-main](#./Guided-Project-Analyzing-Wikipedia-Pages-main)
+3. [Project 3: Guided-Project-Data-Engineering-Analyzing-Stock-Prices-main](#./Guided-Project-Data-Engineering-Analyzing-Stock-Prices-main)
 
 
 ## Project 1: Data Analysis
